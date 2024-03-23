@@ -1,0 +1,9 @@
+Ingresos totales: $1865.00
+Número total de pedidos: 10
+Promedio de ventas por producto: 30.33
+
+Productos más vendidos:
+producto
+Producto A    4
+Producto B    3
+Producto C    3
